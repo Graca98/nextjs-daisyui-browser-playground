@@ -45,11 +45,11 @@ const Pricing = () => {
                                 <span>Free updates: <span class="font-semibold">6 months</span></span>
                             </li>
                         </ul>
-                        <a href="#" class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">Get started</a>
+                        <a href="#" class="text-black bg-yellow-300 hover:bg-yellow-400 focus:ring-4 focus:ring-yellow-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-yellow-900">Get started</a>
                     </div>
                     {/* <!-- Pricing Card --> */}
-                    <div class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-                        <h3 class="mb-4 text-2xl font-semibold">Company</h3>
+                    <div class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-cyan-400 shadow dark:border-cyan-400 xl:p-8 dark:bg-gray-800 dark:text-white">
+                        <h3 class="mb-4 text-2xl font-semibold">EVIP</h3>
                         <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">Relevant for multiple users, extended & premium support.</p>
                         <div class="flex justify-center items-baseline my-8">
                             <span class="mr-2 text-5xl font-extrabold">$99</span>
@@ -83,11 +83,11 @@ const Pricing = () => {
                                 <span>Free updates: <span class="font-semibold">24 months</span></span>
                             </li>
                         </ul>
-                        <a href="#" class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">Get started</a>
+                        <a href="#" class="text-black bg-cyan-400 hover:bg-cyan-500 focus:ring-cyan-400 focus:ring-cyan-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-black  dark:focus:ring-cyan-900">Get started</a>
                     </div>
                     {/* <!-- Pricing Card --> */}
-                    <div class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-                        <h3 class="mb-4 text-2xl font-semibold">Enterprise</h3>
+                    <div class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-purple-700 shadow dark:border-purple-700 xl:p-8 dark:bg-gray-800 dark:text-white">
+                        <h3 class="mb-4 text-2xl font-semibold">Donator</h3>
                         <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">Best for large scale uses and extended redistribution rights.</p>
                         <div class="flex justify-center items-baseline my-8">
                             <span class="mr-2 text-5xl font-extrabold">$499</span>
@@ -121,7 +121,7 @@ const Pricing = () => {
                                 <span>Free updates: <span class="font-semibold">36 months</span></span>
                             </li>
                         </ul>
-                        <a href="#" class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">Get started</a>
+                        <a href="#" class="text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-purple-900">Get started</a>
                     </div>
                 </div>
             </div>
